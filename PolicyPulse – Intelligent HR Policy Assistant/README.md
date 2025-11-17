@@ -1,6 +1,6 @@
 
 
-##📘 PolicyPulse – Intelligent HR Policy Assistant using LangChain, Qdrant & RAG
+## 📘 PolicyPulse – Intelligent HR Policy Assistant using LangChain, Qdrant & RAG
 
 PolicyPulse is an enterprise-grade Retrieval-Augmented Generation (RAG) powered HR Policy Assistant designed to help employees understand company policies with fast, accurate, and context-aware responses.
 
@@ -204,6 +204,7 @@ If you found this useful, please ⭐ star the repository!
 Your support helps the project reach more developers.
 
 ---
+
 
 
 
